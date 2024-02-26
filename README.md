@@ -5,7 +5,7 @@ Melody is a simple music player application developed in C# using Windows Forms 
 ## Features
 
 - Add MP3 files to the playlist
-- Play, pause, stop, skip to next/previous track
+- Play, pause, stop, skip to the next/previous track
 - Simple and intuitive user interface
 
 ## Requirements
